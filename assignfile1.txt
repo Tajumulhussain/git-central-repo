@@ -1,0 +1,3 @@
+to create github account
+to perform push and pull commands using git
+
