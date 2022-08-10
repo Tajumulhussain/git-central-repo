@@ -1,0 +1,2 @@
+to pull from crntral repo
+execute using git pull command
